@@ -8,6 +8,7 @@ function App() {
     <Card>
       <CardBody title="Hola mundo2" text="Este es el nuevo texto" />
       <List data={list} />
+      <List data={list} />
     </Card>
   );
 }
